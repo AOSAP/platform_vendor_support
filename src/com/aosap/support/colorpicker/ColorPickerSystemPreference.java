@@ -16,12 +16,12 @@
  * limitations under the License.
  */
 
-package com.abc.support.colorpicker;
+package com.aosap.support.colorpicker;
 
 import android.content.Context;
 import android.util.AttributeSet;
 
-import com.abc.support.preferences.SystemSettingsStore;
+import com.aosap.support.preferences.SystemSettingsStore;
 
 public class ColorPickerSystemPreference extends ColorPickerPreference {
 
